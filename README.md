@@ -1,4 +1,4 @@
-# guestik_app
+# guestik
 
 A new Flutter project.
 

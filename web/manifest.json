@@ -1,6 +1,6 @@
 {
-    "name": "guestik_app",
-    "short_name": "guestik_app",
+    "name": "guestik",
+    "short_name": "guestik",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
