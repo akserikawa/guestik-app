@@ -7,23 +7,15 @@ environment:
   sdk: '>=2.19.3 <3.0.0'
 
 dependencies:
-  authentication_repository:
-    path: packages/authentication_repository
-  bloc: ^8.1.0
-  equatable: ^2.0.3
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.1.1
-  formz: ^0.4.0
-  user_repository:
-    path: packages/user_repository
+  get: ^4.6.5
+  get_storage: ^2.1.1
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
-  bloc_test: ^9.1.0
   flutter_test:
     sdk: flutter
-  mocktail: ^0.3.0
   very_good_analysis: ^3.1.0
   flutter_lints: ^2.0.0
 
